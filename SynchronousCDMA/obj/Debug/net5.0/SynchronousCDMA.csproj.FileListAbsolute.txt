@@ -1,0 +1,16 @@
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\bin\Debug\net5.0\SynchronousCDMA.exe
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\bin\Debug\net5.0\SynchronousCDMA.deps.json
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\bin\Debug\net5.0\SynchronousCDMA.runtimeconfig.json
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\bin\Debug\net5.0\SynchronousCDMA.runtimeconfig.dev.json
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\bin\Debug\net5.0\SynchronousCDMA.dll
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\bin\Debug\net5.0\ref\SynchronousCDMA.dll
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\bin\Debug\net5.0\SynchronousCDMA.pdb
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.csprojAssemblyReference.cache
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.GeneratedMSBuildEditorConfig.editorconfig
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.AssemblyInfoInputs.cache
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.AssemblyInfo.cs
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.csproj.CoreCompileInputs.cache
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.dll
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\ref\SynchronousCDMA.dll
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.pdb
+S:\Git\repos\Synchronous-CDMA\SynchronousCDMA\obj\Debug\net5.0\SynchronousCDMA.genruntimeconfig.cache
